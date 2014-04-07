@@ -13,3 +13,9 @@
 * `NAND`
 * `XOR` - Exclusive OR `(+)`
 * `XNOR`
+
+# Clase Tres
+
+* Algebra de Boole
+* Simplificacion
+* Aplicaciones
