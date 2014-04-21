@@ -19,3 +19,9 @@
 * Algebra de Boole
 * Simplificacion
 * Aplicaciones
+
+# Clase Cuatro
+
+* Minitermino (multiplico las que dan 1)
+* Maxitermino (suma de los que dan 0)
+
