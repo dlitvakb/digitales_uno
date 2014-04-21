@@ -14,14 +14,17 @@
 * `XOR` - Exclusive OR `(+)`
 * `XNOR`
 
-# Clase Tres
+# Clase Tres y Cuatro
 
 * Algebra de Boole
 * Simplificacion
 * Aplicaciones
 
-# Clase Cuatro
+# Clase Cinco
 
-* Minitermino (multiplico las que dan 1)
-* Maxitermino (suma de los que dan 0)
+* Minitermino (suma de productos de terminos que dan 1)
+* Maxitermino (producto de sumas de terminos que dan 0)
 
+# Clase Seis
+
+* Mapas de Karnaugh
