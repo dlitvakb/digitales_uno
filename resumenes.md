@@ -1,3 +1,9 @@
+# Clase Uno
+
+__Averiguar__
+* TTL - 5 volts
+* CMOS
+
 # Clase Dos
 
 * Expresiones
@@ -28,3 +34,8 @@
 # Clase Seis
 
 * Mapas de Karnaugh
+
+# Clase Siete
+
+* Decodificador
+* Expansion de decodificadores
