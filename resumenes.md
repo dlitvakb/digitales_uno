@@ -39,3 +39,8 @@ __Averiguar__
 
 * Decodificador
 * Expansion de decodificadores
+
+# Clase Nueve
+
+* Multiplexores (MUX)
+* Expansion de Multiplexores
