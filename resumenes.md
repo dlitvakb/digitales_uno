@@ -25,6 +25,7 @@ __Averiguar__
 * Algebra de Boole
 * Simplificacion
 * Aplicaciones
+* Lógica Combinacional
 
 # Clase Cinco
 
@@ -44,3 +45,14 @@ __Averiguar__
 
 * Multiplexores (MUX)
 * Expansion de Multiplexores
+
+# Clase Diez
+
+* Sumadores
+
+# Clase Once
+
+* Restadores
+* Sumador/Restador
+* Lógica Secuencial
+* Flip-Flops
